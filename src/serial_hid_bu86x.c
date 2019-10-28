@@ -57,6 +57,7 @@
 
 static const struct vid_pid_item vid_pid_items_bu86x[] = {
 	{ 0x0820, 0x0001, },
+	VID_PID_TERM,
 	ALL_ZERO
 };
 
